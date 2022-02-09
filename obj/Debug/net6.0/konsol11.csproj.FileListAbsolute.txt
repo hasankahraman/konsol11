@@ -1,0 +1,15 @@
+D:\patika\practises\konsol11\bin\Debug\net6.0\konsol11.exe
+D:\patika\practises\konsol11\bin\Debug\net6.0\konsol11.deps.json
+D:\patika\practises\konsol11\bin\Debug\net6.0\konsol11.runtimeconfig.json
+D:\patika\practises\konsol11\bin\Debug\net6.0\konsol11.dll
+D:\patika\practises\konsol11\bin\Debug\net6.0\ref\konsol11.dll
+D:\patika\practises\konsol11\bin\Debug\net6.0\konsol11.pdb
+D:\patika\practises\konsol11\obj\Debug\net6.0\konsol11.csproj.AssemblyReference.cache
+D:\patika\practises\konsol11\obj\Debug\net6.0\konsol11.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika\practises\konsol11\obj\Debug\net6.0\konsol11.AssemblyInfoInputs.cache
+D:\patika\practises\konsol11\obj\Debug\net6.0\konsol11.AssemblyInfo.cs
+D:\patika\practises\konsol11\obj\Debug\net6.0\konsol11.csproj.CoreCompileInputs.cache
+D:\patika\practises\konsol11\obj\Debug\net6.0\konsol11.dll
+D:\patika\practises\konsol11\obj\Debug\net6.0\ref\konsol11.dll
+D:\patika\practises\konsol11\obj\Debug\net6.0\konsol11.pdb
+D:\patika\practises\konsol11\obj\Debug\net6.0\konsol11.genruntimeconfig.cache
